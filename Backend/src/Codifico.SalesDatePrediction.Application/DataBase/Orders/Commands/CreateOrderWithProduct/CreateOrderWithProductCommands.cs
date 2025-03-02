@@ -21,7 +21,7 @@ namespace Codifico.SalesDatePrediction.Application.DataBase.Orders.Commands.Crea
                 var Cust = await _context.Customers.AnyAsync(x => x.CustId == model.CustId);
                 var Ship = await _context.Shipper.AnyAsync(x => x.ShipperId == model.ShipperId);
 
-                if (Emp && Cust && Ship)
+                if (!Emp && !Cust && !Ship)
                     throw new Exception("Hubo un error al validar el empleado o el cliente o el repartidor");
 
                 var OrderEntity = new OrdersEntity
@@ -30,7 +30,7 @@ namespace Codifico.SalesDatePrediction.Application.DataBase.Orders.Commands.Crea
                     CustId = model.CustId,
                     ShipperId = model.ShipperId,
                     ShipName = model.ShipName,
-                    ShipAddress = model.ShipAdress,
+                    ShipAddress = model.ShipAddress,
                     ShipCity = model.ShipCity,
                     OrderDate = model.OrderDate,
                     RequiredDate = model.RequiredDate,

@@ -60,6 +60,7 @@ export class TablePagination implements AfterViewInit {
       height: 'auto',
       minWidth: '800px',
       minHeight: '800px',
+      panelClass: 'custom-dialog-container',
       data: {
         custId,
         customerName,
@@ -67,12 +68,17 @@ export class TablePagination implements AfterViewInit {
     });
   }
 
-  newOrder(){
+  newOrder({custId, customerName} : {custId: number, customerName: string}){
     this.dialog.open(OrderDialogComponent, {
-      width: '600px',
+      width: 'auto',
       height: 'auto',
-      minWidth: '600px',
-      minHeight: '600px',
+      minWidth: '800px',
+      minHeight: '800px',
+      panelClass: 'custom-dialog-container-create-order',
+      data: {
+        custId,
+        customerName,
+      }
     });
   }
 }

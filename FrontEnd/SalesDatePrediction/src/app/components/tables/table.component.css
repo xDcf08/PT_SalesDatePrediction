@@ -1,3 +1,43 @@
 table {
   width: 90%;
 }
+
+div.mat-elevation-z8{
+  padding: 20px;
+  margin: 20px;
+  border-radius: 10px;
+  background-color: #f5f5f5;
+}
+
+div.table-header{
+  display: flex;
+  justify-content: space-between;
+}
+
+button.cls-view_detail {
+  height: 40px;
+  font-size: 1rem;
+  color: red;
+  font-weight: 600;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+button.cls-create_order {
+  height: 40px;
+  font-size: 1rem;
+  color: rgb(48, 167, 48);
+  font-weight: 600;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+mat-form-field.mat-mdc-form-field.mat-mdc-form-field-type-mat-input.mat-form-field-appearance-outline.mat-form-field-hide-placeholder.mat-primary.mat-form-field-animations-enabled{
+  width: 60%;
+}
+
+.mat-mdc-cell{
+  border-bottom-color: #e5e5e5;
+}

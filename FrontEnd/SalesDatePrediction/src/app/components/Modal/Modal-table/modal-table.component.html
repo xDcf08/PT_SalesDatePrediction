@@ -1,5 +1,5 @@
 <h2 mat-dialog-title>{{data.customerName}} - Orders</h2>
-<div mat-dialog-content>
+<div mat-dialog-content class="cls-table__content">
   <table mat-table [dataSource]="dataSource" class="full-width-table">
 
     <!-- orderId Name Column -->
@@ -48,6 +48,6 @@
   </mat-paginator>
 </div>
 
-<div mat-dialog-actions>
+<div mat-dialog-actions class="cls-button">
   <button mat-button (click)="closeModal()">Close</button>
 </div>

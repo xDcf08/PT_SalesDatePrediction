@@ -3,7 +3,6 @@
 body {
   font-family: Roboto, "Helvetica Neue", sans-serif;
   margin: 0;
-  padding: 30px;
 
   @include mat.theme((
     color: (
@@ -18,4 +17,21 @@ body {
 
 html {
   height: 100%;
+}
+
+.custom-dialog-container-create-order .mat-mdc-dialog-content.mdc-dialog__content.modal-content{
+  max-height: 80vh;
+  padding: 0;
+}
+
+.custom-dialog-container-create-order .mat-mdc-dialog-content.mdc-dialog__content.modal-content::-webkit-scrollbar{
+  display: none;
+}
+.mat-mdc-text-field-wrapper.mdc-text-field.mdc-text-field--filled,
+.mat-mdc-text-field-wrapper.mdc-text-field.mdc-text-field--filled.mdc-text-field--invalid{
+  background-color: transparent;
+}
+
+.mat-mdc-dialog-actions.mdc-dialog__actions.mat-mdc-dialog-actions-align-end button .cls-button.mdc-button.mdc-button--raised.mat-mdc-raised-button.mat-unthemed.mat-mdc-button-base .mdc-button__label{
+  color: #4c9950;
 }

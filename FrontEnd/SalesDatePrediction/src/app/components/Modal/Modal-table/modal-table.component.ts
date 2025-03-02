@@ -37,7 +37,6 @@ export class TableModalComponent implements AfterViewInit {
   }
 
   ObtenerDatos() : void{
-    console.log('data:', this.data.custId);
     this.getClientService.GetOrderByCustomerId(this.data.custId).subscribe({
       next: (data) => {
         this.dataSource.data = data;

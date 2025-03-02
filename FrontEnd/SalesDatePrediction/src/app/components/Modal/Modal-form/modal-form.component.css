@@ -1,0 +1,41 @@
+.cls-content__form{
+  padding: 20px;
+}
+
+h2.mat-mdc-dialog-title.mdc-dialog__title{
+  background-color: #4c9950;
+  color: white;
+}
+
+form .form-container .mat-mdc-form-field{
+  width: 48%;
+  margin-right: 10px;
+}
+
+.mat-mdc-form-field.full-width.cls-input__shipname
+{
+  width: 98%;
+}
+
+form .form-container .mat-mdc-form-field.cls-input__shipcountry,
+form .form-container .mat-mdc-form-field.cls-input__shipaddres, 
+form .form-container .mat-mdc-form-field.cls-input__shipcity,
+form .form-container .mat-mdc-form-field.cls-input__orderdate,
+form .form-container .mat-mdc-form-field.cls-input__requireddate,
+form .form-container .mat-mdc-form-field.cls-input__shipppeddate,
+form .form-container .mat-mdc-form-field.cls-input__unitprice,
+form .form-container .mat-mdc-form-field.cls-input__qty,
+form .form-container .mat-mdc-form-field.cls-input__discount
+{
+  width: 32%;
+}
+
+.mat-mdc-form-field.full-width.cls-input__freight,
+.mat-mdc-form-field.full-width.cls-input__product
+{
+  width: 98%;
+}
+
+.mat-mdc-dialog-actions.mdc-dialog__actions.mat-mdc-dialog-actions-align-end button .cls-button.mdc-button.mdc-button--raised.mat-mdc-raised-button.mat-unthemed.mat-mdc-button-base .mdc-button__label{
+  color: #4c9950;
+}

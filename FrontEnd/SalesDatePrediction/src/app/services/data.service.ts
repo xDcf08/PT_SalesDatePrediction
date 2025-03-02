@@ -2,10 +2,11 @@ import { Injectable } from '@angular/core';
 import { SalesDatePrediction } from '../models/SalesDataPrediction.model';
 import { environment } from '../../environments/environment.development';
 import { HttpClient } from '@angular/common/http';
-import { map, Observable } from 'rxjs';
+import { lastValueFrom, map, Observable } from 'rxjs';
 import { Order } from '../models/Order.model';
 import { response } from 'express';
 import { Employees, Products, Shippers } from '../models/form.model';
+import { CreateOrder } from '../models/Create.model';
 
 @Injectable({
   providedIn: 'root'
@@ -47,6 +48,9 @@ export class GetClientService {
     ))
   }
 
+  public async createOrder(order: CreateOrder): Promise<ResponseUrlOrderCreateService> {
+    return await lastValueFrom(this.http.post<ResponseUrlOrderCreateService>(`${this.apiUrl}orders/create-order`, order));
+  }
 }
 
 type ApiResponse<T> = {
@@ -62,3 +66,4 @@ type ResponseUrlOrderService = ApiResponse<Order>;
 type ResponseUrlEmployeesService = ApiResponse<Employees>;
 type ResponseUrlShippersService = ApiResponse<Shippers>;
 type ResponseUrlProductsService = ApiResponse<Products>;
+type ResponseUrlOrderCreateService = ApiResponse<CreateOrder>;

@@ -1,9 +1,9 @@
 <div class="mat-elevation-z8">
 
   <div class="table-header">
-    <h2>Orders Table</h2>
+    <h2>Customer</h2>
     <mat-form-field appearance="outline">
-      <mat-label>Search</mat-label>
+      <mat-label>Customer name</mat-label>
       <input matInput (keyup)="applyFilter($event)" placeholder="Search customers">
     </mat-form-field>    
   </div>
@@ -32,7 +32,7 @@
     <ng-container matColumnDef="viewOrder">
       <th mat-header-cell *matHeaderCellDef></th>
       <td mat-cell *matCellDef="let element">
-        <button mat-button (click)="viewOrderDetail({custId:element.custId, customerName:element.customerName})">View Orders</button>
+        <button class="cls-view_detail" mat-button (click)="viewOrderDetail({custId:element.custId, customerName:element.customerName})">View Orders</button>
       </td>
     </ng-container>
 
@@ -40,7 +40,7 @@
     <ng-container matColumnDef="newOrder">
       <th mat-header-cell *matHeaderCellDef></th>
       <td mat-cell *matCellDef="let element">
-        <button mat-button (click)="newOrder()">New Order</button>
+        <button class="cls-create_order" mat-button (click)="newOrder({custId:element.custId, customerName:element.customerName})">New Order</button>
       </td>
     </ng-container>
 

@@ -14,7 +14,7 @@ namespace Codifico.SalesDatePrediction.Application.Validators
             RuleFor(x => x.ShipperId).NotNull().NotEmpty();
             RuleFor(x => x.Freight).NotNull().NotEmpty();
             RuleFor(x => x.ShipName).NotNull().NotEmpty().MaximumLength(40);
-            RuleFor(x => x.ShipAdress).NotNull().NotEmpty().MaximumLength(60);
+            RuleFor(x => x.ShipAddress).NotNull().NotEmpty().MaximumLength(60);
             RuleFor(x => x.ShipCity).NotNull().NotEmpty().MaximumLength(15);
             RuleFor(x => x.ShipCountry).NotNull().NotEmpty().MaximumLength(15);
             RuleFor(x => x.ProductId).NotNull().NotEmpty();
