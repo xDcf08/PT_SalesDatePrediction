@@ -1,0 +1,6 @@
+@Codifico.SalesDatePrediction.Api_HostAddress = http://localhost:5115
+
+GET {{Codifico.SalesDatePrediction.Api_HostAddress}}
+Accept: application/json
+
+###

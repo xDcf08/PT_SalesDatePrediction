@@ -1,0 +1,1010 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7083A06-7F25-4168-9B37-2400F23DEEEB}|src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.application\\database\\orders\\queries\\getordersbycustomer\\getordersbycustomerquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7083A06-7F25-4168-9B37-2400F23DEEEB}|src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj|solutionrelative:src\\codifico.salesdateprediction.application\\database\\orders\\queries\\getordersbycustomer\\getordersbycustomerquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1624FFC1-8FCB-4B7B-B48A-CCC8C21B5500}|src\\Codifico.SalesDatePrediction.Test\\Codifico.SalesDatePrediction.Test.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.test\\employee\\getallemployeestest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1624FFC1-8FCB-4B7B-B48A-CCC8C21B5500}|src\\Codifico.SalesDatePrediction.Test\\Codifico.SalesDatePrediction.Test.csproj|solutionrelative:src\\codifico.salesdateprediction.test\\employee\\getallemployeestest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1624FFC1-8FCB-4B7B-B48A-CCC8C21B5500}|src\\Codifico.SalesDatePrediction.Test\\Codifico.SalesDatePrediction.Test.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.test\\customer\\getcustomerswithorderpredictionquerytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1624FFC1-8FCB-4B7B-B48A-CCC8C21B5500}|src\\Codifico.SalesDatePrediction.Test\\Codifico.SalesDatePrediction.Test.csproj|solutionrelative:src\\codifico.salesdateprediction.test\\customer\\getcustomerswithorderpredictionquerytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7083A06-7F25-4168-9B37-2400F23DEEEB}|src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.application\\configuration\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7083A06-7F25-4168-9B37-2400F23DEEEB}|src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj|solutionrelative:src\\codifico.salesdateprediction.application\\configuration\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E141BB-64A3-41F5-8E2F-5A6A2CE5498B}|src\\Codifico.SalesDatePrediction.Api\\Codifico.SalesDatePrediction.Api.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E141BB-64A3-41F5-8E2F-5A6A2CE5498B}|src\\Codifico.SalesDatePrediction.Api\\Codifico.SalesDatePrediction.Api.csproj|solutionrelative:src\\codifico.salesdateprediction.api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E141BB-64A3-41F5-8E2F-5A6A2CE5498B}|src\\Codifico.SalesDatePrediction.Api\\Codifico.SalesDatePrediction.Api.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E141BB-64A3-41F5-8E2F-5A6A2CE5498B}|src\\Codifico.SalesDatePrediction.Api\\Codifico.SalesDatePrediction.Api.csproj|solutionrelative:src\\codifico.salesdateprediction.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E141BB-64A3-41F5-8E2F-5A6A2CE5498B}|src\\Codifico.SalesDatePrediction.Api\\Codifico.SalesDatePrediction.Api.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E141BB-64A3-41F5-8E2F-5A6A2CE5498B}|src\\Codifico.SalesDatePrediction.Api\\Codifico.SalesDatePrediction.Api.csproj|solutionrelative:src\\codifico.salesdateprediction.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7083A06-7F25-4168-9B37-2400F23DEEEB}|src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.application\\database\\employee\\queries\\getallemployees\\getallemployeesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7083A06-7F25-4168-9B37-2400F23DEEEB}|src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj|solutionrelative:src\\codifico.salesdateprediction.application\\database\\employee\\queries\\getallemployees\\getallemployeesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7083A06-7F25-4168-9B37-2400F23DEEEB}|src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.application\\database\\employee\\queries\\getallemployees\\getallemployeesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7083A06-7F25-4168-9B37-2400F23DEEEB}|src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj|solutionrelative:src\\codifico.salesdateprediction.application\\database\\employee\\queries\\getallemployees\\getallemployeesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7083A06-7F25-4168-9B37-2400F23DEEEB}|src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.application\\database\\customer\\queries\\getclientbylastorderdateandnextpredictedorder\\getclientwithlastorderdateandnextpredictedorderquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7083A06-7F25-4168-9B37-2400F23DEEEB}|src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj|solutionrelative:src\\codifico.salesdateprediction.application\\database\\customer\\queries\\getclientbylastorderdateandnextpredictedorder\\getclientwithlastorderdateandnextpredictedorderquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7083A06-7F25-4168-9B37-2400F23DEEEB}|src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.application\\database\\customer\\queries\\getclientbylastorderdateandnextpredictedorder\\getclientwithlastorderdateandnextpredictedorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7083A06-7F25-4168-9B37-2400F23DEEEB}|src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj|solutionrelative:src\\codifico.salesdateprediction.application\\database\\customer\\queries\\getclientbylastorderdateandnextpredictedorder\\getclientwithlastorderdateandnextpredictedorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7083A06-7F25-4168-9B37-2400F23DEEEB}|src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.application\\database\\customer\\queries\\getclientbylastorderdateandnextpredictedorder\\igetclientwithlastorderdateandnextpredictedorderquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7083A06-7F25-4168-9B37-2400F23DEEEB}|src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj|solutionrelative:src\\codifico.salesdateprediction.application\\database\\customer\\queries\\getclientbylastorderdateandnextpredictedorder\\igetclientwithlastorderdateandnextpredictedorderquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0D0522-D58D-4A47-B43F-62C41F4BF4E2}|src\\Codifico.SalesDatePrediction.Persistence\\Codifico.SalesDatePrediction.Persistence.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.persistence\\codifico.salesdateprediction.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2C0D0522-D58D-4A47-B43F-62C41F4BF4E2}|src\\Codifico.SalesDatePrediction.Persistence\\Codifico.SalesDatePrediction.Persistence.csproj|solutionrelative:src\\codifico.salesdateprediction.persistence\\codifico.salesdateprediction.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7083A06-7F25-4168-9B37-2400F23DEEEB}|src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.application\\database\\orders\\commands\\createorderwithproduct\\createorderwithproductcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7083A06-7F25-4168-9B37-2400F23DEEEB}|src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj|solutionrelative:src\\codifico.salesdateprediction.application\\database\\orders\\commands\\createorderwithproduct\\createorderwithproductcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7083A06-7F25-4168-9B37-2400F23DEEEB}|src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.application\\database\\orders\\commands\\createorderwithproduct\\icreateorderwithproductcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7083A06-7F25-4168-9B37-2400F23DEEEB}|src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj|solutionrelative:src\\codifico.salesdateprediction.application\\database\\orders\\commands\\createorderwithproduct\\icreateorderwithproductcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7083A06-7F25-4168-9B37-2400F23DEEEB}|src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.application\\database\\orders\\commands\\createorderwithproduct\\createorderwithproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7083A06-7F25-4168-9B37-2400F23DEEEB}|src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj|solutionrelative:src\\codifico.salesdateprediction.application\\database\\orders\\commands\\createorderwithproduct\\createorderwithproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7083A06-7F25-4168-9B37-2400F23DEEEB}|src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.application\\validators\\createordervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7083A06-7F25-4168-9B37-2400F23DEEEB}|src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj|solutionrelative:src\\codifico.salesdateprediction.application\\validators\\createordervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0D0522-D58D-4A47-B43F-62C41F4BF4E2}|src\\Codifico.SalesDatePrediction.Persistence\\Codifico.SalesDatePrediction.Persistence.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.persistence\\database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C0D0522-D58D-4A47-B43F-62C41F4BF4E2}|src\\Codifico.SalesDatePrediction.Persistence\\Codifico.SalesDatePrediction.Persistence.csproj|solutionrelative:src\\codifico.salesdateprediction.persistence\\database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7083A06-7F25-4168-9B37-2400F23DEEEB}|src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.application\\database\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7083A06-7F25-4168-9B37-2400F23DEEEB}|src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj|solutionrelative:src\\codifico.salesdateprediction.application\\database\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7083A06-7F25-4168-9B37-2400F23DEEEB}|src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.application\\dependencyinjectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7083A06-7F25-4168-9B37-2400F23DEEEB}|src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj|solutionrelative:src\\codifico.salesdateprediction.application\\dependencyinjectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E141BB-64A3-41F5-8E2F-5A6A2CE5498B}|src\\Codifico.SalesDatePrediction.Api\\Codifico.SalesDatePrediction.Api.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E141BB-64A3-41F5-8E2F-5A6A2CE5498B}|src\\Codifico.SalesDatePrediction.Api\\Codifico.SalesDatePrediction.Api.csproj|solutionrelative:src\\codifico.salesdateprediction.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E141BB-64A3-41F5-8E2F-5A6A2CE5498B}|src\\Codifico.SalesDatePrediction.Api\\Codifico.SalesDatePrediction.Api.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.api\\controllers\\shipperscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E141BB-64A3-41F5-8E2F-5A6A2CE5498B}|src\\Codifico.SalesDatePrediction.Api\\Codifico.SalesDatePrediction.Api.csproj|solutionrelative:src\\codifico.salesdateprediction.api\\controllers\\shipperscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E141BB-64A3-41F5-8E2F-5A6A2CE5498B}|src\\Codifico.SalesDatePrediction.Api\\Codifico.SalesDatePrediction.Api.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{45E141BB-64A3-41F5-8E2F-5A6A2CE5498B}|src\\Codifico.SalesDatePrediction.Api\\Codifico.SalesDatePrediction.Api.csproj|solutionrelative:src\\codifico.salesdateprediction.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0D0522-D58D-4A47-B43F-62C41F4BF4E2}|src\\Codifico.SalesDatePrediction.Persistence\\Codifico.SalesDatePrediction.Persistence.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.persistence\\dependencyinjectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C0D0522-D58D-4A47-B43F-62C41F4BF4E2}|src\\Codifico.SalesDatePrediction.Persistence\\Codifico.SalesDatePrediction.Persistence.csproj|solutionrelative:src\\codifico.salesdateprediction.persistence\\dependencyinjectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E141BB-64A3-41F5-8E2F-5A6A2CE5498B}|src\\Codifico.SalesDatePrediction.Api\\Codifico.SalesDatePrediction.Api.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E141BB-64A3-41F5-8E2F-5A6A2CE5498B}|src\\Codifico.SalesDatePrediction.Api\\Codifico.SalesDatePrediction.Api.csproj|solutionrelative:src\\codifico.salesdateprediction.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E141BB-64A3-41F5-8E2F-5A6A2CE5498B}|src\\Codifico.SalesDatePrediction.Api\\Codifico.SalesDatePrediction.Api.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.api\\dependencyinjectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E141BB-64A3-41F5-8E2F-5A6A2CE5498B}|src\\Codifico.SalesDatePrediction.Api\\Codifico.SalesDatePrediction.Api.csproj|solutionrelative:src\\codifico.salesdateprediction.api\\dependencyinjectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7083A06-7F25-4168-9B37-2400F23DEEEB}|src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.application\\database\\products\\queries\\getallproducts\\getallproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7083A06-7F25-4168-9B37-2400F23DEEEB}|src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj|solutionrelative:src\\codifico.salesdateprediction.application\\database\\products\\queries\\getallproducts\\getallproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E664CC3-EB9B-4917-918A-0C962D329593}|src\\Codifico.SalesDatePrediction.Domain\\Codifico.SalesDatePrediction.Domain.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.domain\\entities\\productsentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E664CC3-EB9B-4917-918A-0C962D329593}|src\\Codifico.SalesDatePrediction.Domain\\Codifico.SalesDatePrediction.Domain.csproj|solutionrelative:src\\codifico.salesdateprediction.domain\\entities\\productsentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E664CC3-EB9B-4917-918A-0C962D329593}|src\\Codifico.SalesDatePrediction.Domain\\Codifico.SalesDatePrediction.Domain.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.domain\\models\\baseresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E664CC3-EB9B-4917-918A-0C962D329593}|src\\Codifico.SalesDatePrediction.Domain\\Codifico.SalesDatePrediction.Domain.csproj|solutionrelative:src\\codifico.salesdateprediction.domain\\models\\baseresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E141BB-64A3-41F5-8E2F-5A6A2CE5498B}|src\\Codifico.SalesDatePrediction.Api\\Codifico.SalesDatePrediction.Api.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{45E141BB-64A3-41F5-8E2F-5A6A2CE5498B}|src\\Codifico.SalesDatePrediction.Api\\Codifico.SalesDatePrediction.Api.csproj|solutionrelative:src\\codifico.salesdateprediction.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0D0522-D58D-4A47-B43F-62C41F4BF4E2}|src\\Codifico.SalesDatePrediction.Persistence\\Codifico.SalesDatePrediction.Persistence.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.persistence\\configuration\\productsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C0D0522-D58D-4A47-B43F-62C41F4BF4E2}|src\\Codifico.SalesDatePrediction.Persistence\\Codifico.SalesDatePrediction.Persistence.csproj|solutionrelative:src\\codifico.salesdateprediction.persistence\\configuration\\productsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0D0522-D58D-4A47-B43F-62C41F4BF4E2}|src\\Codifico.SalesDatePrediction.Persistence\\Codifico.SalesDatePrediction.Persistence.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.persistence\\configuration\\orderdetailsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C0D0522-D58D-4A47-B43F-62C41F4BF4E2}|src\\Codifico.SalesDatePrediction.Persistence\\Codifico.SalesDatePrediction.Persistence.csproj|solutionrelative:src\\codifico.salesdateprediction.persistence\\configuration\\orderdetailsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0D0522-D58D-4A47-B43F-62C41F4BF4E2}|src\\Codifico.SalesDatePrediction.Persistence\\Codifico.SalesDatePrediction.Persistence.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.persistence\\configuration\\ordersconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C0D0522-D58D-4A47-B43F-62C41F4BF4E2}|src\\Codifico.SalesDatePrediction.Persistence\\Codifico.SalesDatePrediction.Persistence.csproj|solutionrelative:src\\codifico.salesdateprediction.persistence\\configuration\\ordersconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7083A06-7F25-4168-9B37-2400F23DEEEB}|src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.application\\database\\products\\queries\\getallproducts\\igetallproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7083A06-7F25-4168-9B37-2400F23DEEEB}|src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj|solutionrelative:src\\codifico.salesdateprediction.application\\database\\products\\queries\\getallproducts\\igetallproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7083A06-7F25-4168-9B37-2400F23DEEEB}|src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.application\\database\\products\\queries\\getallproducts\\getallproductsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7083A06-7F25-4168-9B37-2400F23DEEEB}|src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj|solutionrelative:src\\codifico.salesdateprediction.application\\database\\products\\queries\\getallproducts\\getallproductsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7083A06-7F25-4168-9B37-2400F23DEEEB}|src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.application\\database\\shippers\\queries\\getallshippers\\getallshippersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7083A06-7F25-4168-9B37-2400F23DEEEB}|src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj|solutionrelative:src\\codifico.salesdateprediction.application\\database\\shippers\\queries\\getallshippers\\getallshippersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7083A06-7F25-4168-9B37-2400F23DEEEB}|src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.application\\database\\shippers\\queries\\getallshippers\\igetallshippersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7083A06-7F25-4168-9B37-2400F23DEEEB}|src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj|solutionrelative:src\\codifico.salesdateprediction.application\\database\\shippers\\queries\\getallshippers\\igetallshippersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7083A06-7F25-4168-9B37-2400F23DEEEB}|src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.application\\database\\employee\\queries\\getallemployees\\igetallemployeesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7083A06-7F25-4168-9B37-2400F23DEEEB}|src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj|solutionrelative:src\\codifico.salesdateprediction.application\\database\\employee\\queries\\getallemployees\\igetallemployeesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7083A06-7F25-4168-9B37-2400F23DEEEB}|src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.application\\database\\shippers\\queries\\getallshippers\\getallshippersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7083A06-7F25-4168-9B37-2400F23DEEEB}|src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj|solutionrelative:src\\codifico.salesdateprediction.application\\database\\shippers\\queries\\getallshippers\\getallshippersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E664CC3-EB9B-4917-918A-0C962D329593}|src\\Codifico.SalesDatePrediction.Domain\\Codifico.SalesDatePrediction.Domain.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.domain\\entities\\employeesentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E664CC3-EB9B-4917-918A-0C962D329593}|src\\Codifico.SalesDatePrediction.Domain\\Codifico.SalesDatePrediction.Domain.csproj|solutionrelative:src\\codifico.salesdateprediction.domain\\entities\\employeesentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0D0522-D58D-4A47-B43F-62C41F4BF4E2}|src\\Codifico.SalesDatePrediction.Persistence\\Codifico.SalesDatePrediction.Persistence.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.persistence\\configuration\\employeesconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C0D0522-D58D-4A47-B43F-62C41F4BF4E2}|src\\Codifico.SalesDatePrediction.Persistence\\Codifico.SalesDatePrediction.Persistence.csproj|solutionrelative:src\\codifico.salesdateprediction.persistence\\configuration\\employeesconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7083A06-7F25-4168-9B37-2400F23DEEEB}|src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.application\\database\\orders\\queries\\getordersbycustomer\\igetordersbycustomerquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7083A06-7F25-4168-9B37-2400F23DEEEB}|src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj|solutionrelative:src\\codifico.salesdateprediction.application\\database\\orders\\queries\\getordersbycustomer\\igetordersbycustomerquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7083A06-7F25-4168-9B37-2400F23DEEEB}|src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.application\\database\\orders\\queries\\getordersbycustomer\\getordersbycustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7083A06-7F25-4168-9B37-2400F23DEEEB}|src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj|solutionrelative:src\\codifico.salesdateprediction.application\\database\\orders\\queries\\getordersbycustomer\\getordersbycustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E141BB-64A3-41F5-8E2F-5A6A2CE5498B}|src\\Codifico.SalesDatePrediction.Api\\Codifico.SalesDatePrediction.Api.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.api\\codifico.salesdateprediction.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{45E141BB-64A3-41F5-8E2F-5A6A2CE5498B}|src\\Codifico.SalesDatePrediction.Api\\Codifico.SalesDatePrediction.Api.csproj|solutionrelative:src\\codifico.salesdateprediction.api\\codifico.salesdateprediction.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E664CC3-EB9B-4917-918A-0C962D329593}|src\\Codifico.SalesDatePrediction.Domain\\Codifico.SalesDatePrediction.Domain.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.domain\\codifico.salesdateprediction.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2E664CC3-EB9B-4917-918A-0C962D329593}|src\\Codifico.SalesDatePrediction.Domain\\Codifico.SalesDatePrediction.Domain.csproj|solutionrelative:src\\codifico.salesdateprediction.domain\\codifico.salesdateprediction.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E141BB-64A3-41F5-8E2F-5A6A2CE5498B}|src\\Codifico.SalesDatePrediction.Api\\Codifico.SalesDatePrediction.Api.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.api\\codifico.salesdateprediction.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{45E141BB-64A3-41F5-8E2F-5A6A2CE5498B}|src\\Codifico.SalesDatePrediction.Api\\Codifico.SalesDatePrediction.Api.csproj|solutionrelative:src\\codifico.salesdateprediction.api\\codifico.salesdateprediction.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0D0522-D58D-4A47-B43F-62C41F4BF4E2}|src\\Codifico.SalesDatePrediction.Persistence\\Codifico.SalesDatePrediction.Persistence.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.persistence\\configuration\\customerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C0D0522-D58D-4A47-B43F-62C41F4BF4E2}|src\\Codifico.SalesDatePrediction.Persistence\\Codifico.SalesDatePrediction.Persistence.csproj|solutionrelative:src\\codifico.salesdateprediction.persistence\\configuration\\customerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0D0522-D58D-4A47-B43F-62C41F4BF4E2}|src\\Codifico.SalesDatePrediction.Persistence\\Codifico.SalesDatePrediction.Persistence.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.persistence\\configuration\\categoriesconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C0D0522-D58D-4A47-B43F-62C41F4BF4E2}|src\\Codifico.SalesDatePrediction.Persistence\\Codifico.SalesDatePrediction.Persistence.csproj|solutionrelative:src\\codifico.salesdateprediction.persistence\\configuration\\categoriesconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7083A06-7F25-4168-9B37-2400F23DEEEB}|src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.application\\codifico.salesdateprediction.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B7083A06-7F25-4168-9B37-2400F23DEEEB}|src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj|solutionrelative:src\\codifico.salesdateprediction.application\\codifico.salesdateprediction.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E664CC3-EB9B-4917-918A-0C962D329593}|src\\Codifico.SalesDatePrediction.Domain\\Codifico.SalesDatePrediction.Domain.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.domain\\entities\\shippersentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E664CC3-EB9B-4917-918A-0C962D329593}|src\\Codifico.SalesDatePrediction.Domain\\Codifico.SalesDatePrediction.Domain.csproj|solutionrelative:src\\codifico.salesdateprediction.domain\\entities\\shippersentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E664CC3-EB9B-4917-918A-0C962D329593}|src\\Codifico.SalesDatePrediction.Domain\\Codifico.SalesDatePrediction.Domain.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.domain\\entities\\categoriesentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E664CC3-EB9B-4917-918A-0C962D329593}|src\\Codifico.SalesDatePrediction.Domain\\Codifico.SalesDatePrediction.Domain.csproj|solutionrelative:src\\codifico.salesdateprediction.domain\\entities\\categoriesentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7083A06-7F25-4168-9B37-2400F23DEEEB}|src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.application\\features\\responseapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7083A06-7F25-4168-9B37-2400F23DEEEB}|src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj|solutionrelative:src\\codifico.salesdateprediction.application\\features\\responseapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0D0522-D58D-4A47-B43F-62C41F4BF4E2}|src\\Codifico.SalesDatePrediction.Persistence\\Codifico.SalesDatePrediction.Persistence.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.persistence\\configuration\\suppliersconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C0D0522-D58D-4A47-B43F-62C41F4BF4E2}|src\\Codifico.SalesDatePrediction.Persistence\\Codifico.SalesDatePrediction.Persistence.csproj|solutionrelative:src\\codifico.salesdateprediction.persistence\\configuration\\suppliersconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E664CC3-EB9B-4917-918A-0C962D329593}|src\\Codifico.SalesDatePrediction.Domain\\Codifico.SalesDatePrediction.Domain.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.domain\\entities\\suppliersentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E664CC3-EB9B-4917-918A-0C962D329593}|src\\Codifico.SalesDatePrediction.Domain\\Codifico.SalesDatePrediction.Domain.csproj|solutionrelative:src\\codifico.salesdateprediction.domain\\entities\\suppliersentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0D0522-D58D-4A47-B43F-62C41F4BF4E2}|src\\Codifico.SalesDatePrediction.Persistence\\Codifico.SalesDatePrediction.Persistence.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.persistence\\configuration\\shippersconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C0D0522-D58D-4A47-B43F-62C41F4BF4E2}|src\\Codifico.SalesDatePrediction.Persistence\\Codifico.SalesDatePrediction.Persistence.csproj|solutionrelative:src\\codifico.salesdateprediction.persistence\\configuration\\shippersconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E664CC3-EB9B-4917-918A-0C962D329593}|src\\Codifico.SalesDatePrediction.Domain\\Codifico.SalesDatePrediction.Domain.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.domain\\entities\\ordersentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E664CC3-EB9B-4917-918A-0C962D329593}|src\\Codifico.SalesDatePrediction.Domain\\Codifico.SalesDatePrediction.Domain.csproj|solutionrelative:src\\codifico.salesdateprediction.domain\\entities\\ordersentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E664CC3-EB9B-4917-918A-0C962D329593}|src\\Codifico.SalesDatePrediction.Domain\\Codifico.SalesDatePrediction.Domain.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.domain\\entities\\customerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E664CC3-EB9B-4917-918A-0C962D329593}|src\\Codifico.SalesDatePrediction.Domain\\Codifico.SalesDatePrediction.Domain.csproj|solutionrelative:src\\codifico.salesdateprediction.domain\\entities\\customerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E664CC3-EB9B-4917-918A-0C962D329593}|src\\Codifico.SalesDatePrediction.Domain\\Codifico.SalesDatePrediction.Domain.csproj|c:\\users\\cami_\\documents\\prueba tecnica\\src\\codifico.salesdateprediction.domain\\entities\\orderdetailsentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E664CC3-EB9B-4917-918A-0C962D329593}|src\\Codifico.SalesDatePrediction.Domain\\Codifico.SalesDatePrediction.Domain.csproj|solutionrelative:src\\codifico.salesdateprediction.domain\\entities\\orderdetailsentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetAllEmployeesTest.cs",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Test\\Employee\\GetAllEmployeesTest.cs",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Test\\Employee\\GetAllEmployeesTest.cs",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Test\\Employee\\GetAllEmployeesTest.cs",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Test\\Employee\\GetAllEmployeesTest.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T17:10:49.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Api\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Api\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Api\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Api\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T06:26:47.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Api\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Api\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Api\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Api\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T06:40:22.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetCustomersWithOrderPredictionQueryTests.cs",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Test\\Customer\\GetCustomersWithOrderPredictionQueryTests.cs",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Test\\Customer\\GetCustomersWithOrderPredictionQueryTests.cs",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Test\\Customer\\GetCustomersWithOrderPredictionQueryTests.cs",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Test\\Customer\\GetCustomersWithOrderPredictionQueryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T16:20:49.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Api\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Api\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Api\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Api\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T04:38:12.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Application\\Configuration\\MapperProfile.cs",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Application\\Configuration\\MapperProfile.cs",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Application\\Configuration\\MapperProfile.cs",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Application\\Configuration\\MapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T06:20:12.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetOrdersByCustomerQuery.cs",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Application\\DataBase\\Orders\\Queries\\GetOrdersByCustomer\\GetOrdersByCustomerQuery.cs",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Application\\DataBase\\Orders\\Queries\\GetOrdersByCustomer\\GetOrdersByCustomerQuery.cs",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Application\\DataBase\\Orders\\Queries\\GetOrdersByCustomer\\GetOrdersByCustomerQuery.cs",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Application\\DataBase\\Orders\\Queries\\GetOrdersByCustomer\\GetOrdersByCustomerQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T06:09:54.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IGetClientWithLastOrderDateAndNextPredictedOrderQuery.cs",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Application\\DataBase\\Customer\\Queries\\GetClientByLastOrderDateAndNextPredictedOrder\\IGetClientWithLastOrderDateAndNextPredictedOrderQuery.cs",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Application\\DataBase\\Customer\\Queries\\GetClientByLastOrderDateAndNextPredictedOrder\\IGetClientWithLastOrderDateAndNextPredictedOrderQuery.cs",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Application\\DataBase\\Customer\\Queries\\GetClientByLastOrderDateAndNextPredictedOrder\\IGetClientWithLastOrderDateAndNextPredictedOrderQuery.cs",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Application\\DataBase\\Customer\\Queries\\GetClientByLastOrderDateAndNextPredictedOrder\\IGetClientWithLastOrderDateAndNextPredictedOrderQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T03:24:54.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetAllEmployeesDTO.cs",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Application\\DataBase\\Employee\\Queries\\GetAllEmployees\\GetAllEmployeesDTO.cs",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Application\\DataBase\\Employee\\Queries\\GetAllEmployees\\GetAllEmployeesDTO.cs",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Application\\DataBase\\Employee\\Queries\\GetAllEmployees\\GetAllEmployeesDTO.cs",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Application\\DataBase\\Employee\\Queries\\GetAllEmployees\\GetAllEmployeesDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T06:35:27.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetAllEmployeesQuery.cs",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Application\\DataBase\\Employee\\Queries\\GetAllEmployees\\GetAllEmployeesQuery.cs",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Application\\DataBase\\Employee\\Queries\\GetAllEmployees\\GetAllEmployeesQuery.cs",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Application\\DataBase\\Employee\\Queries\\GetAllEmployees\\GetAllEmployeesQuery.cs",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Application\\DataBase\\Employee\\Queries\\GetAllEmployees\\GetAllEmployeesQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T06:33:29.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetClientWithLastOrderDateAndNextPredictedOrderQuery.cs",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Application\\DataBase\\Customer\\Queries\\GetClientByLastOrderDateAndNextPredictedOrder\\GetClientWithLastOrderDateAndNextPredictedOrderQuery.cs",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Application\\DataBase\\Customer\\Queries\\GetClientByLastOrderDateAndNextPredictedOrder\\GetClientWithLastOrderDateAndNextPredictedOrderQuery.cs",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Application\\DataBase\\Customer\\Queries\\GetClientByLastOrderDateAndNextPredictedOrder\\GetClientWithLastOrderDateAndNextPredictedOrderQuery.cs",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Application\\DataBase\\Customer\\Queries\\GetClientByLastOrderDateAndNextPredictedOrder\\GetClientWithLastOrderDateAndNextPredictedOrderQuery.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T03:24:42.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateOrderWithProductCommands.cs",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Application\\DataBase\\Orders\\Commands\\CreateOrderWithProduct\\CreateOrderWithProductCommands.cs",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Application\\DataBase\\Orders\\Commands\\CreateOrderWithProduct\\CreateOrderWithProductCommands.cs",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Application\\DataBase\\Orders\\Commands\\CreateOrderWithProduct\\CreateOrderWithProductCommands.cs",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Application\\DataBase\\Orders\\Commands\\CreateOrderWithProduct\\CreateOrderWithProductCommands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T15:07:35.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetClientWithLastOrderDateAndNextPredictedOrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Application\\DataBase\\Customer\\Queries\\GetClientByLastOrderDateAndNextPredictedOrder\\GetClientWithLastOrderDateAndNextPredictedOrderDTO.cs",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Application\\DataBase\\Customer\\Queries\\GetClientByLastOrderDateAndNextPredictedOrder\\GetClientWithLastOrderDateAndNextPredictedOrderDTO.cs",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Application\\DataBase\\Customer\\Queries\\GetClientByLastOrderDateAndNextPredictedOrder\\GetClientWithLastOrderDateAndNextPredictedOrderDTO.cs",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Application\\DataBase\\Customer\\Queries\\GetClientByLastOrderDateAndNextPredictedOrder\\GetClientWithLastOrderDateAndNextPredictedOrderDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T03:24:36.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateOrderValidator.cs",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Application\\Validators\\CreateOrderValidator.cs",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Application\\Validators\\CreateOrderValidator.cs",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Application\\Validators\\CreateOrderValidator.cs",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Application\\Validators\\CreateOrderValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T15:35:03.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Persistence\\DataBase\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Persistence\\DataBase\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Persistence\\DataBase\\ApplicationDbContext.cs",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Persistence\\DataBase\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T03:55:14.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Application\\DataBase\\IApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Application\\DataBase\\IApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Application\\DataBase\\IApplicationDbContext.cs",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Application\\DataBase\\IApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T05:01:37.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Api\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Api\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Api\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Api\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T07:11:42.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Codifico.SalesDatePrediction.Persistence.csproj",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Persistence\\Codifico.SalesDatePrediction.Persistence.csproj",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Persistence\\Codifico.SalesDatePrediction.Persistence.csproj",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Persistence\\Codifico.SalesDatePrediction.Persistence.csproj",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Persistence\\Codifico.SalesDatePrediction.Persistence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-01T04:31:51.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateOrderWithProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Application\\DataBase\\Orders\\Commands\\CreateOrderWithProduct\\CreateOrderWithProductDTO.cs",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Application\\DataBase\\Orders\\Commands\\CreateOrderWithProduct\\CreateOrderWithProductDTO.cs",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Application\\DataBase\\Orders\\Commands\\CreateOrderWithProduct\\CreateOrderWithProductDTO.cs",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Application\\DataBase\\Orders\\Commands\\CreateOrderWithProduct\\CreateOrderWithProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T15:07:19.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICreateOrderWithProductCommands.cs",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Application\\DataBase\\Orders\\Commands\\CreateOrderWithProduct\\ICreateOrderWithProductCommands.cs",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Application\\DataBase\\Orders\\Commands\\CreateOrderWithProduct\\ICreateOrderWithProductCommands.cs",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Application\\DataBase\\Orders\\Commands\\CreateOrderWithProduct\\ICreateOrderWithProductCommands.cs",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Application\\DataBase\\Orders\\Commands\\CreateOrderWithProduct\\ICreateOrderWithProductCommands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T15:07:46.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DependencyInjectionService.cs",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Application\\DependencyInjectionService.cs",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Application\\DependencyInjectionService.cs",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Application\\DependencyInjectionService.cs",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Application\\DependencyInjectionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T03:54:08.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ShippersController.cs",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Api\\Controllers\\ShippersController.cs",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Api\\Controllers\\ShippersController.cs",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Api\\Controllers\\ShippersController.cs",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Api\\Controllers\\ShippersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T07:00:52.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Api\\appsettings.json",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-01T03:47:15.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DependencyInjectionService.cs",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Persistence\\DependencyInjectionService.cs",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Persistence\\DependencyInjectionService.cs",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Persistence\\DependencyInjectionService.cs",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Persistence\\DependencyInjectionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T04:59:52.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DependencyInjectionService.cs",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Api\\DependencyInjectionService.cs",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Api\\DependencyInjectionService.cs",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Api\\DependencyInjectionService.cs",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Api\\DependencyInjectionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T04:39:46.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Api\\Program.cs",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T03:19:49.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BaseResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Domain\\Models\\BaseResponseModel.cs",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Domain\\Models\\BaseResponseModel.cs",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Domain\\Models\\BaseResponseModel.cs",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Domain\\Models\\BaseResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T03:59:38.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GetAllProductsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Application\\DataBase\\Products\\Queries\\GetAllProducts\\GetAllProductsQuery.cs",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Application\\DataBase\\Products\\Queries\\GetAllProducts\\GetAllProductsQuery.cs",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Application\\DataBase\\Products\\Queries\\GetAllProducts\\GetAllProductsQuery.cs",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Application\\DataBase\\Products\\Queries\\GetAllProducts\\GetAllProductsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T07:07:53.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductsEntity.cs",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Domain\\Entities\\ProductsEntity.cs",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Domain\\Entities\\ProductsEntity.cs",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Domain\\Entities\\ProductsEntity.cs",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Domain\\Entities\\ProductsEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T03:51:50.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-01T14:10:36.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProductsConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Persistence\\Configuration\\ProductsConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Persistence\\Configuration\\ProductsConfiguration.cs",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Persistence\\Configuration\\ProductsConfiguration.cs",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Persistence\\Configuration\\ProductsConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T04:48:41.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OrderDetailsConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Persistence\\Configuration\\OrderDetailsConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Persistence\\Configuration\\OrderDetailsConfiguration.cs",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Persistence\\Configuration\\OrderDetailsConfiguration.cs",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Persistence\\Configuration\\OrderDetailsConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T04:30:22.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OrdersConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Persistence\\Configuration\\OrdersConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Persistence\\Configuration\\OrdersConfiguration.cs",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Persistence\\Configuration\\OrdersConfiguration.cs",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Persistence\\Configuration\\OrdersConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T04:42:02.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GetAllShippersDTO.cs",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Application\\DataBase\\Shippers\\Queries\\GetAllShippers\\GetAllShippersDTO.cs",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Application\\DataBase\\Shippers\\Queries\\GetAllShippers\\GetAllShippersDTO.cs",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Application\\DataBase\\Shippers\\Queries\\GetAllShippers\\GetAllShippersDTO.cs",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Application\\DataBase\\Shippers\\Queries\\GetAllShippers\\GetAllShippersDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T06:55:53.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GetAllProductsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Application\\DataBase\\Products\\Queries\\GetAllProducts\\GetAllProductsDTO.cs",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Application\\DataBase\\Products\\Queries\\GetAllProducts\\GetAllProductsDTO.cs",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Application\\DataBase\\Products\\Queries\\GetAllProducts\\GetAllProductsDTO.cs",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Application\\DataBase\\Products\\Queries\\GetAllProducts\\GetAllProductsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T07:08:00.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IGetAllProductsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Application\\DataBase\\Products\\Queries\\GetAllProducts\\IGetAllProductsQuery.cs",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Application\\DataBase\\Products\\Queries\\GetAllProducts\\IGetAllProductsQuery.cs",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Application\\DataBase\\Products\\Queries\\GetAllProducts\\IGetAllProductsQuery.cs",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Application\\DataBase\\Products\\Queries\\GetAllProducts\\IGetAllProductsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T07:08:13.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GetAllShippersQuery.cs",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Application\\DataBase\\Shippers\\Queries\\GetAllShippers\\GetAllShippersQuery.cs",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Application\\DataBase\\Shippers\\Queries\\GetAllShippers\\GetAllShippersQuery.cs",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Application\\DataBase\\Shippers\\Queries\\GetAllShippers\\GetAllShippersQuery.cs",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Application\\DataBase\\Shippers\\Queries\\GetAllShippers\\GetAllShippersQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T06:56:11.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IGetAllEmployeesQuery.cs",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Application\\DataBase\\Employee\\Queries\\GetAllEmployees\\IGetAllEmployeesQuery.cs",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Application\\DataBase\\Employee\\Queries\\GetAllEmployees\\IGetAllEmployeesQuery.cs",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Application\\DataBase\\Employee\\Queries\\GetAllEmployees\\IGetAllEmployeesQuery.cs",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Application\\DataBase\\Employee\\Queries\\GetAllEmployees\\IGetAllEmployeesQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T06:35:16.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IGetAllShippersQuery.cs",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Application\\DataBase\\Shippers\\Queries\\GetAllShippers\\IGetAllShippersQuery.cs",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Application\\DataBase\\Shippers\\Queries\\GetAllShippers\\IGetAllShippersQuery.cs",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Application\\DataBase\\Shippers\\Queries\\GetAllShippers\\IGetAllShippersQuery.cs",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Application\\DataBase\\Shippers\\Queries\\GetAllShippers\\IGetAllShippersQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T06:56:25.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "EmployeesConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Persistence\\Configuration\\EmployeesConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Persistence\\Configuration\\EmployeesConfiguration.cs",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Persistence\\Configuration\\EmployeesConfiguration.cs",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Persistence\\Configuration\\EmployeesConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T04:25:42.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "EmployeesEntity.cs",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Domain\\Entities\\EmployeesEntity.cs",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Domain\\Entities\\EmployeesEntity.cs",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Domain\\Entities\\EmployeesEntity.cs",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Domain\\Entities\\EmployeesEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T03:44:32.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IGetOrdersByCustomerQuery.cs",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Application\\DataBase\\Orders\\Queries\\GetOrdersByCustomer\\IGetOrdersByCustomerQuery.cs",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Application\\DataBase\\Orders\\Queries\\GetOrdersByCustomer\\IGetOrdersByCustomerQuery.cs",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Application\\DataBase\\Orders\\Queries\\GetOrdersByCustomer\\IGetOrdersByCustomerQuery.cs",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Application\\DataBase\\Orders\\Queries\\GetOrdersByCustomer\\IGetOrdersByCustomerQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T06:10:25.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "GetOrdersByCustomerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Application\\DataBase\\Orders\\Queries\\GetOrdersByCustomer\\GetOrdersByCustomerDTO.cs",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Application\\DataBase\\Orders\\Queries\\GetOrdersByCustomer\\GetOrdersByCustomerDTO.cs",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Application\\DataBase\\Orders\\Queries\\GetOrdersByCustomer\\GetOrdersByCustomerDTO.cs",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Application\\DataBase\\Orders\\Queries\\GetOrdersByCustomer\\GetOrdersByCustomerDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T06:10:05.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Codifico.SalesDatePrediction.Api.http",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Api\\Codifico.SalesDatePrediction.Api.http",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Api\\Codifico.SalesDatePrediction.Api.http",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Api\\Codifico.SalesDatePrediction.Api.http",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Api\\Codifico.SalesDatePrediction.Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-01T04:59:10.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Codifico.SalesDatePrediction.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Application\\Codifico.SalesDatePrediction.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-01T03:54:33.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Codifico.SalesDatePrediction.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Domain\\Codifico.SalesDatePrediction.Domain.csproj",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Domain\\Codifico.SalesDatePrediction.Domain.csproj",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Domain\\Codifico.SalesDatePrediction.Domain.csproj",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Domain\\Codifico.SalesDatePrediction.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-28T03:20:59.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Codifico.SalesDatePrediction.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Api\\Codifico.SalesDatePrediction.Api.csproj",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Api\\Codifico.SalesDatePrediction.Api.csproj",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Api\\Codifico.SalesDatePrediction.Api.csproj",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Api\\Codifico.SalesDatePrediction.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-01T04:48:22.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ShippersEntity.cs",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Domain\\Entities\\ShippersEntity.cs",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Domain\\Entities\\ShippersEntity.cs",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Domain\\Entities\\ShippersEntity.cs",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Domain\\Entities\\ShippersEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T03:50:52.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CategoriesEntity.cs",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Domain\\Entities\\CategoriesEntity.cs",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Domain\\Entities\\CategoriesEntity.cs",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Domain\\Entities\\CategoriesEntity.cs",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Domain\\Entities\\CategoriesEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T04:15:29.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CustomerConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Persistence\\Configuration\\CustomerConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Persistence\\Configuration\\CustomerConfiguration.cs",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Persistence\\Configuration\\CustomerConfiguration.cs",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Persistence\\Configuration\\CustomerConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T03:33:21.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CategoriesConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Persistence\\Configuration\\CategoriesConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Persistence\\Configuration\\CategoriesConfiguration.cs",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Persistence\\Configuration\\CategoriesConfiguration.cs",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Persistence\\Configuration\\CategoriesConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T04:23:41.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ResponseApiService.cs",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Application\\Features\\ResponseApiService.cs",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Application\\Features\\ResponseApiService.cs",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Application\\Features\\ResponseApiService.cs",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Application\\Features\\ResponseApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T03:58:53.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "SuppliersConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Persistence\\Configuration\\SuppliersConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Persistence\\Configuration\\SuppliersConfiguration.cs",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Persistence\\Configuration\\SuppliersConfiguration.cs",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Persistence\\Configuration\\SuppliersConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T04:55:31.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "SuppliersEntity.cs",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Domain\\Entities\\SuppliersEntity.cs",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Domain\\Entities\\SuppliersEntity.cs",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Domain\\Entities\\SuppliersEntity.cs",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Domain\\Entities\\SuppliersEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T04:13:34.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ShippersConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Persistence\\Configuration\\ShippersConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Persistence\\Configuration\\ShippersConfiguration.cs",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Persistence\\Configuration\\ShippersConfiguration.cs",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Persistence\\Configuration\\ShippersConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T04:53:35.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "OrdersEntity.cs",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Domain\\Entities\\OrdersEntity.cs",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Domain\\Entities\\OrdersEntity.cs",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Domain\\Entities\\OrdersEntity.cs",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Domain\\Entities\\OrdersEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T03:40:04.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "CustomerEntity.cs",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Domain\\Entities\\CustomerEntity.cs",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Domain\\Entities\\CustomerEntity.cs",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Domain\\Entities\\CustomerEntity.cs",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Domain\\Entities\\CustomerEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T03:35:14.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "OrderDetailsEntity.cs",
+              "DocumentMoniker": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Domain\\Entities\\OrderDetailsEntity.cs",
+              "RelativeDocumentMoniker": "src\\Codifico.SalesDatePrediction.Domain\\Entities\\OrderDetailsEntity.cs",
+              "ToolTip": "C:\\Users\\cami_\\Documents\\Prueba Tecnica\\src\\Codifico.SalesDatePrediction.Domain\\Entities\\OrderDetailsEntity.cs",
+              "RelativeToolTip": "src\\Codifico.SalesDatePrediction.Domain\\Entities\\OrderDetailsEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T03:53:24.745Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
